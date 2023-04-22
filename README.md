@@ -1,1 +1,2 @@
-# pruebas_flask
+# Se usa...
+Se usa en conjunto con el siguiente repositorio [link al repositorio](https://github.com/zacksPerez43/sbr-ia)
