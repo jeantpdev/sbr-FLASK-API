@@ -9,7 +9,7 @@ CORS(app)
 # Mysql Connection
 app.config['MYSQL_HOST'] = 'bd-sbr-ia.ctl0hwzog7zq.us-east-1.rds.amazonaws.com'
 app.config['MYSQL_USER'] = 'admin'
-app.config['MYSQL_PASSWORD'] = 'Zacksykes.2018'
+app.config['MYSQL_PASSWORD'] = ''
 app.config['MYSQL_DB'] = 'sistema_de_reglas'
 mysql = MySQL(app)
 
